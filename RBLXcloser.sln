@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RBLXcloser", "RBLXcloser\RBLXcloser.csproj", "{FD201485-AF6E-4CB4-86AB-7D7D4BD66560}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD201485-AF6E-4CB4-86AB-7D7D4BD66560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD201485-AF6E-4CB4-86AB-7D7D4BD66560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD201485-AF6E-4CB4-86AB-7D7D4BD66560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD201485-AF6E-4CB4-86AB-7D7D4BD66560}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A8FC249-2A1E-4497-B66E-DE2C7E9C9862}
+	EndGlobalSection
+EndGlobal
