@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\XD4ngerX\\Desktop\\DocumentoTexto\\projeto pessoal\\RBLXcloser\\RBLXcloser\\RBLXcloser.csproj": {}
+    "C:\\Users\\XD4ngerX\\Desktop\\DocumentoTexto\\projeto pessoal\\RBLXcloser\\projeto-RBLXcloser\\RBLXcloser\\RBLXcloser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\XD4ngerX\\Desktop\\DocumentoTexto\\projeto pessoal\\RBLXcloser\\RBLXcloser\\RBLXcloser.csproj": {
+    "C:\\Users\\XD4ngerX\\Desktop\\DocumentoTexto\\projeto pessoal\\RBLXcloser\\projeto-RBLXcloser\\RBLXcloser\\RBLXcloser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\XD4ngerX\\Desktop\\DocumentoTexto\\projeto pessoal\\RBLXcloser\\RBLXcloser\\RBLXcloser.csproj",
+        "projectUniqueName": "C:\\Users\\XD4ngerX\\Desktop\\DocumentoTexto\\projeto pessoal\\RBLXcloser\\projeto-RBLXcloser\\RBLXcloser\\RBLXcloser.csproj",
         "projectName": "RBLXcloser",
-        "projectPath": "C:\\Users\\XD4ngerX\\Desktop\\DocumentoTexto\\projeto pessoal\\RBLXcloser\\RBLXcloser\\RBLXcloser.csproj",
+        "projectPath": "C:\\Users\\XD4ngerX\\Desktop\\DocumentoTexto\\projeto pessoal\\RBLXcloser\\projeto-RBLXcloser\\RBLXcloser\\RBLXcloser.csproj",
         "packagesPath": "C:\\Users\\XD4ngerX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\XD4ngerX\\Desktop\\DocumentoTexto\\projeto pessoal\\RBLXcloser\\RBLXcloser\\obj\\",
+        "outputPath": "C:\\Users\\XD4ngerX\\Desktop\\DocumentoTexto\\projeto pessoal\\RBLXcloser\\projeto-RBLXcloser\\RBLXcloser\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -25,7 +25,7 @@
           "net6.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\XD4ngerX\\Downloads": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://nuget.pkg.github.com/wixtoolset/index.jso": {},
           "https://nuget.pkg.github.com/wixtoolset/index.json": {}
@@ -64,7 +64,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
